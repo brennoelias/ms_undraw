@@ -13,12 +13,6 @@ dev_dependencies:
   fhir_yaml: ^0.9.0
   flutter_test: 
     sdk: "flutter"
-<<<<<<< HEAD
-environment: 
-  sdk: ">=2.12.0 <4.0.0"
-flutter: null
-=======
 environment:
   sdk: ">=3.0.0 <4.0.0"
 flutter: null
->>>>>>> 77199aaca81ec75693f387273ac17609a14abd59
